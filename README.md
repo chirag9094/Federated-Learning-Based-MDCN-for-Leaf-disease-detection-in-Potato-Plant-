@@ -10,5 +10,3 @@ The Federated Learning-Based Modified Dense Convolutional Network (MDCN) project
 4. Privacy-Preserving: Ensures data privacy by keeping data on local devices and only sharing model updates, not the data itself.
 5. Scalability: Supports scalability by allowing multiple participants (e.g., farms, research institutions) to collaboratively train the model without sharing raw data.
 
-## Output
-<img src="output.png">
